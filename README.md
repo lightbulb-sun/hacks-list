@@ -58,6 +58,9 @@
 ## PC Engine
 * [Bomberman '93 (PC Engine, JP) Configuration Menu](https://github.com/lightbulb-sun/bomberman93-config)
 
+## SMS
+* [Golfamania (SMS) BGM Patch](https://github.com/lightbulb-sun/golfamania-mute)
+
 ## SNES
 * [Aero Fighters (SNES) Automatic Shooting Patch](https://github.com/lightbulb-sun/aerofighters-automatic-shooting)
 * [Final Fight (SNES) Abigail Blood Patch](https://github.com/lightbulb-sun/finalfight-blood)
