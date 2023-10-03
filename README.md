@@ -76,3 +76,6 @@
 * [Street Fighter II Turbo (SNES) Special Ending Patch](https://github.com/lightbulb-sun/streetfighter2turbo-special-ending)
 * [Sunset Riders (SNES) Ending Patch](https://github.com/lightbulb-sun/sunsetriders-ending)
 * [Super Street Fighter II (SNES) Special Ending Patch](https://github.com/lightbulb-sun/superstreetfighter2-special-ending)
+
+## Virtual Boy
+* [Mario Clash (Virtual Boy) Infinite Lives Patch](https://github.com/lightbulb-sun/marioclash-infinitelives)
