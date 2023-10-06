@@ -21,6 +21,7 @@
 * [Wario Land: Super Mario Land 3 practice ROM](https://github.com/lightbulb-sun/sml3-practice-rom)
 
 ## GBA
+* [Castlevania: Aria of Sorrow (GBA) Galamoth Patch](https://github.com/lightbulb-sun/aos-galamoth)
 * [Bust A Move (GBA) Color Patcher](https://github.com/lightbulb-sun/bustamove-color)
 * [Final Fantasy I & II: Dawn of Souls (GBA) No Gradients Patch](https://github.com/lightbulb-sun/ffdos-no-gradients)
 * [Final Fantasy IV Advance (GBA) No Gradients Patch](https://github.com/lightbulb-sun/ffiv-no-gradients)
