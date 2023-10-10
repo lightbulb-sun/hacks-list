@@ -60,6 +60,9 @@
 ## PC Engine
 * [Bomberman '93 (PC Engine, JP) Configuration Menu](https://github.com/lightbulb-sun/bomberman93-config)
 
+## PSX
+* [MediEvil II (PSX) Fountain Patch](https://github.com/lightbulb-sun/medievil2-fountain)
+
 ## SMS
 * [Golfamania (SMS) BGM Patch](https://github.com/lightbulb-sun/golfamania-mute)
 
