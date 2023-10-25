@@ -87,4 +87,5 @@
 * [Super Street Fighter II (SNES) Special Ending Patch](https://github.com/lightbulb-sun/superstreetfighter2-special-ending)
 
 ## Virtual Boy
+* [Jack Bros. (Virtual Boy) Dialogue Skip Patch](https://github.com/lightbulb-sun/jackbros-dialogue)
 * [Mario Clash (Virtual Boy) Infinite Lives Patch](https://github.com/lightbulb-sun/marioclash-infinitelives)
