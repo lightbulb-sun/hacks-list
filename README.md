@@ -63,6 +63,7 @@
 
 ## PSX
 * [MediEvil II (PSX) Fountain Patch](https://github.com/lightbulb-sun/medievil2-fountain)
+* [Nightmare Creatures (PSX) Adrenaline Meter Patch](https://github.com/lightbulb-sun/nightmare-adrenaline)
 
 ## SMS
 * [Golfamania (SMS) BGM Patch](https://github.com/lightbulb-sun/golfamania-mute)
