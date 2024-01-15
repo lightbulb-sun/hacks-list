@@ -49,6 +49,7 @@
 * [Super Street Fighter II (Genesis) Special Ending Patch](https://github.com/lightbulb-sun/ssf2-special-ending)
 * [Steel Empire (Genesis) Deflicker Patch](https://github.com/lightbulb-sun/steelempire-deflicker)
 * [Strider (Genesis) Voice Restoration](https://github.com/lightbulb-sun/strider-voices)
+* [TMNT: The Hyperstone Heist (Genesis) Controls Patch](https://github.com/lightbulb-sun/tmnthyper-controls)
 * [Truxton (Sega Genesis) True Ending Patch](https://github.com/lightbulb-sun/truxton-true-ending)
 * [Wily Wars (Mega Drive) Music Hack](https://github.com/lightbulb-sun/wilywars-music)
 * [Wrestle War (Genesis) Region Patch](https://github.com/lightbulb-sun/wrestlewar-region)
