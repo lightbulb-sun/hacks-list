@@ -67,6 +67,7 @@
 
 ## SMS
 * [Golfamania (SMS) BGM Patch](https://github.com/lightbulb-sun/golfamania-mute)
+* [Rocky (SMS) Qualifications Patch](https://github.com/lightbulb-sun/rocky-qualify)
 
 ## SNES
 * [Aero Fighters (SNES) Automatic Shooting Patch](https://github.com/lightbulb-sun/aerofighters-automatic-shooting)
