@@ -78,6 +78,7 @@
 * [Final Fight Guy (SNES) Music Patch](https://github.com/lightbulb-sun/finalfightguy-music)
 * [Final Fight Guy (SNES) OMG Patch](https://github.com/lightbulb-sun/finalfightguy-omg)
 * [F-Zero Final (SNES) Hide UI](https://github.com/lightbulb-sun/fzerofinal-hideui)
+* [Home Alone 2 (SNES) Jump Sound Removal Patch](https://github.com/lightbulb-sun/homealone2-jump)
 * [Kirby Super Star (SNES) patch](https://github.com/lightbulb-sun/kirbysuperstar-patch)
 * [Mega Man 7 (SNES) Unlock All Robot Masters](https://github.com/lightbulb-sun/megaman7-unlock)
 * [Samurai Shodown (SNES) Button Patch](https://github.com/lightbulb-sun/samurai-buttons)
