@@ -66,6 +66,7 @@
 * [Adventure Island 3 (NES) Boomerang Fix](https://github.com/lightbulb-sun/ai3-boomerang)
 * [Bonk's Adventure (NES) Health Patch](https://github.com/lightbulb-sun/bonks-health)
 * [Castlevania III (NES) Sypha Pronoun Patch](https://github.com/lightbulb-sun/castlevania3-sypha)
+* [Double Dragon III (Famicom) Select Fix](https://github.com/lightbulb-sun/dd3-select)
 * [Fixes for Sugoro Quest translation](https://github.com/lightbulb-sun/sugoro-long-line-patch)
 * [Gyruss (NES) Controls Patch](https://github.com/lightbulb-sun/gyruss-controls)
 
