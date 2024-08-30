@@ -55,6 +55,7 @@
 * [Strider (Genesis) Voice Restoration](https://github.com/lightbulb-sun/strider-voices)
 * [TMNT: The Hyperstone Heist (Genesis) Controls Patch](https://github.com/lightbulb-sun/tmnthyper-controls)
 * [Truxton (Sega Genesis) True Ending Patch](https://github.com/lightbulb-sun/truxton-true-ending)
+* [Valis III (Genesis) Slide Patch](https://github.com/lightbulb-sun/valis3-slide)
 * [Wily Wars (Mega Drive) Music Hack](https://github.com/lightbulb-sun/wilywars-music)
 * [Wrestle War (Genesis) Region Patch](https://github.com/lightbulb-sun/wrestlewar-region)
 * [X-Men (Genesis) High Jump Patch](https://github.com/lightbulb-sun/xmen-jump)
