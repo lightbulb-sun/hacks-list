@@ -43,6 +43,7 @@
 * [Uno Shuffler](https://github.com/lightbulb-sun/uno-shuffler)
 
 ## Genesis
+* [Batman & Robin (Genesis) Infinite Continues](https://github.com/lightbulb-sun/batman-continues)
 * [Batman & Robin (Genesis) Utility Belt Hack](https://github.com/lightbulb-sun/batman-utility)
 * [Contra: Hard Corps (Genesis) Fang Fix](https://github.com/lightbulb-sun/contrahardcorps-fang)
 * [Cool Spot (Genesis) Running Patch](https://github.com/lightbulb-sun/coolspot-run)
