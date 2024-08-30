@@ -48,6 +48,7 @@
 * [Cool Spot (Genesis) Running Patch](https://github.com/lightbulb-sun/coolspot-run)
 * [Mega Bomberman (Genesis) Revival Patch](https://github.com/lightbulb-sun/megabomberman-revival)
 * [Street Fighter II': Special Champion Edition (Genesis) Special Ending Patch](https://github.com/lightbulb-sun/sf2sce-special-ending)
+* [Streets of Rage 3 (Genesis) Disco Patch](https://github.com/lightbulb-sun/sor3-disco)
 * [Super Street Fighter II (Genesis) Special Ending Patch](https://github.com/lightbulb-sun/ssf2-special-ending)
 * [Steel Empire (Genesis) Deflicker Patch](https://github.com/lightbulb-sun/steelempire-deflicker)
 * [Strider (Genesis) Voice Restoration](https://github.com/lightbulb-sun/strider-voices)
