@@ -63,6 +63,7 @@
 * [X-Men (Genesis) High Jump Patch](https://github.com/lightbulb-sun/xmen-jump)
 
 ## NES
+* [Adventure Island 3 (NES) Boomerang Fix](https://github.com/lightbulb-sun/ai3-boomerang)
 * [Castlevania III (NES) Sypha Pronoun Patch](https://github.com/lightbulb-sun/castlevania3-sypha)
 * [Fixes for Sugoro Quest translation](https://github.com/lightbulb-sun/sugoro-long-line-patch)
 * [Gyruss (NES) Controls Patch](https://github.com/lightbulb-sun/gyruss-controls)
