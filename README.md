@@ -38,6 +38,7 @@
 * [Gex 3 (GBC) Button Swap Patch](https://github.com/lightbulb-sun/gex3-buttons)
 * [Harvest Moon 2 (GBC) Miracle Glove Hack](https://github.com/lightbulb-sun/harvestmoon2-miracle-glove)
 * [Metal Gear Solid (GBC, Europe) Logo Hack](https://github.com/lightbulb-sun/mgs-logo)
+* [Pokémon Card GB2 (GBC) Coin Toss Patch](https://github.com/lightbulb-sun/pokegb2-coin)
 * [Tetris DX (GBC) Hard Drop Patch](https://github.com/lightbulb-sun/tetrisdx-harddrop)
 * [Uno Shuffler](https://github.com/lightbulb-sun/uno-shuffler)
 
