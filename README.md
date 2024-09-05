@@ -76,6 +76,7 @@
 
 ## PSX
 * [MediEvil II (PSX) Fountain Patch](https://github.com/lightbulb-sun/medievil2-fountain)
+* [Mega Man X5 (PSX) Dialogue Volume Patch](https://github.com/lightbulb-sun/x5-volume)
 * [Nightmare Creatures (PSX) Adrenaline Meter Patch](https://github.com/lightbulb-sun/nightmare-adrenaline)
 
 ## SMS
