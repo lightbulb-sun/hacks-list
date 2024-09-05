@@ -49,6 +49,7 @@
 * [Cool Spot (Genesis) Running Patch](https://github.com/lightbulb-sun/coolspot-run)
 * [Mega Bomberman (Genesis) Revival Patch](https://github.com/lightbulb-sun/megabomberman-revival)
 * [Mickey Mania (Genesis) Hack](https://github.com/lightbulb-sun/mickeymania-hack)
+* [Pitfall (Genesis) Softlock Fix](https://github.com/lightbulb-sun/pitfall-softlock)
 * [Shadowrun (Genesis) Hand Razor Patch](https://github.com/lightbulb-sun/shadowrun-razor)
 * [Street Fighter II': Special Champion Edition (Genesis) Special Ending Patch](https://github.com/lightbulb-sun/sf2sce-special-ending)
 * [Streets of Rage 3 (Genesis) Disco Patch](https://github.com/lightbulb-sun/sor3-disco)
