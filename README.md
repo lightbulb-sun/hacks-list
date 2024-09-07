@@ -70,6 +70,7 @@
 * [Double Dragon III (Famicom) Select Fix](https://github.com/lightbulb-sun/dd3-select)
 * [Fixes for Sugoro Quest translation](https://github.com/lightbulb-sun/sugoro-long-line-patch)
 * [Gyruss (NES) Controls Patch](https://github.com/lightbulb-sun/gyruss-controls)
+* [Tetris (NES) No Long Bar Hack](https://github.com/lightbulb-sun/tetris-nolongbar)
 
 ## PC Engine
 * [Bomberman '93 (PC Engine, JP) Configuration Menu](https://github.com/lightbulb-sun/bomberman93-config)
