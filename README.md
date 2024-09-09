@@ -16,6 +16,7 @@
 * [Namco Gallery Vol. 2 (GB) New Dig Dug Autoboot Hack](https://github.com/lightbulb-sun/namco2-newdigdug-autoboot)
 * [Super Mario Land practice ROM](https://github.com/lightbulb-sun/sml1-practice-rom)
 * [Tetris (GB) Line Clear Glitch Fix](https://github.com/lightbulb-sun/tetris-glitch)
+* [Tetris (GB) No Long Bar Hack](https://github.com/lightbulb-sun/tetrisgb-nolongbar)
 * [Tetris (GB) No Music](https://github.com/lightbulb-sun/tetris-no-music)
 * [Trainer for space boss Tatanga in Super Mario Land 2](https://github.com/lightbulb-sun/sml2-tatanga-trainer)
 * [Trax (GB) Control Hack](https://github.com/lightbulb-sun/trax-control)
