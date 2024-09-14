@@ -25,6 +25,7 @@
 ## GBA
 * [Castlevania: Aria of Sorrow (GBA) Galamoth Patch](https://github.com/lightbulb-sun/aos-galamoth)
 * [Castlevania: Aria of Sorrow (GBA) Soul Eater Ring Patch](https://github.com/lightbulb-sun/aos-souleater)
+* [Castlevania: Circle of the Moon (GBA) Running Patch](https://github.com/lightbulb-sun/cotm-running)
 * [Bust A Move (GBA) Color Patcher](https://github.com/lightbulb-sun/bustamove-color)
 * [Final Fantasy I & II: Dawn of Souls (GBA) No Gradients Patch](https://github.com/lightbulb-sun/ffdos-no-gradients)
 * [Final Fantasy IV Advance (GBA) No Gradients Patch](https://github.com/lightbulb-sun/ffiv-no-gradients)
