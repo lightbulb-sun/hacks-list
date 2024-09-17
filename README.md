@@ -84,6 +84,9 @@
 * [Mega Man X5 (PSX) Dialogue Volume Patch](https://github.com/lightbulb-sun/x5-volume)
 * [Nightmare Creatures (PSX) Adrenaline Meter Patch](https://github.com/lightbulb-sun/nightmare-adrenaline)
 
+## Saturn
+* [Earthworm Jim 2 (Saturn) ISO 9000 Music Hack](https://github.com/lightbulb-sun/ewj2-iso9000)
+
 ## SMS
 * [Golfamania (SMS) BGM Patch](https://github.com/lightbulb-sun/golfamania-mute)
 * [Rocky (SMS) Qualifications Patch](https://github.com/lightbulb-sun/rocky-qualify)
