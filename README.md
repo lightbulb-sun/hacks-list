@@ -74,6 +74,7 @@
 * [Fixes for Sugoro Quest translation](https://github.com/lightbulb-sun/sugoro-long-line-patch)
 * [Gyruss (NES) Controls Patch](https://github.com/lightbulb-sun/gyruss-controls)
 * [Pac-Man (NES) No Ghosts Hack](https://github.com/lightbulb-sun/pacman-noghosts)
+* [Tetris (NES) But Without Tetris](https://github.com/lightbulb-sun/tetris-notetris)
 * [Tetris (NES) No Long Bar Hack](https://github.com/lightbulb-sun/tetris-nolongbar)
 
 ## PC Engine
