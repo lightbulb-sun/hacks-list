@@ -103,6 +103,7 @@
 * [Home Alone 2 (SNES) Jump Sound Removal Patch](https://github.com/lightbulb-sun/homealone2-jump)
 * [Illusion of Gaia (SNES) Dialogue Patch](https://github.com/lightbulb-sun/iog-dialogue)
 * [Kirby Super Star (SNES) patch](https://github.com/lightbulb-sun/kirbysuperstar-patch)
+* [Legend (SNES) Walking Speed Patch](https://github.com/lightbulb-sun/legend-speed)
 * [Mega Man 7 (SNES) Unlock All Robot Masters](https://github.com/lightbulb-sun/megaman7-unlock)
 * [Samurai Shodown (SNES) Button Patch](https://github.com/lightbulb-sun/samurai-buttons)
 * [Samurai Shodown (SNES) Ending Patch](https://github.com/lightbulb-sun/samurai-ending)
