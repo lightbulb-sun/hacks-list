@@ -30,6 +30,7 @@
 * [Final Fantasy I & II: Dawn of Souls (GBA) No Gradients Patch](https://github.com/lightbulb-sun/ffdos-no-gradients)
 * [Final Fantasy IV Advance (GBA) No Gradients Patch](https://github.com/lightbulb-sun/ffiv-no-gradients)
 * [Final Fantasy V Advance (GBA) No Gradients Patch](https://github.com/lightbulb-sun/ffv-no-gradients)
+* [FFV Advance (GBA) Dialogue Box Patch](https://github.com/lightbulb-sun/ffvadv-dialogue)
 * [Game & Watch Gallery 4 (GBA) Unlock Patch](https://github.com/lightbulb-sun/gawg4-unlock)
 * [Super Street Fighter II Turbo Revival (GBA) Random Outfit Colors](https://github.com/lightbulb-sun/ssf2tr-random)
 * [Wario Land 4 (GBA) Japanese Credits Song Patch](https://github.com/lightbulb-sun/wl4-credits)
