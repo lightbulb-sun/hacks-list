@@ -80,6 +80,7 @@
 
 ## PC Engine
 * [Bomberman '93 (PC Engine, JP) Configuration Menu](https://github.com/lightbulb-sun/bomberman93-config)
+* [Ninja Ryukenden (PC Engine, JP) Parallax Hack](https://github.com/lightbulb-sun/ninja-parallax)
 
 ## PSX
 * [MediEvil II (PSX) Fountain Patch](https://github.com/lightbulb-sun/medievil2-fountain)
