@@ -107,6 +107,7 @@
 * [Kirby Super Star (SNES) patch](https://github.com/lightbulb-sun/kirbysuperstar-patch)
 * [Legend (SNES) Walking Speed Patch](https://github.com/lightbulb-sun/legend-speed)
 * [Mega Man 7 (SNES) Unlock All Robot Masters](https://github.com/lightbulb-sun/megaman7-unlock)
+* [Nightmare Busters (SNES) Stereo Hack](https://github.com/lightbulb-sun/nightmarebusters-stereo)
 * [Samurai Shodown (SNES) Button Patch](https://github.com/lightbulb-sun/samurai-buttons)
 * [Samurai Shodown (SNES) Ending Patch](https://github.com/lightbulb-sun/samurai-ending)
 * [Street Fighter Alpha 2 (SNES) Outfit Color Patch](https://github.com/lightbulb-sun/sfa2-colors)
