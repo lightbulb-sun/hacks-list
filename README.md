@@ -50,6 +50,7 @@
 * [Batman & Robin (Genesis) Utility Belt Hack](https://github.com/lightbulb-sun/batman-utility)
 * [Contra: Hard Corps (Genesis) Fang Fix](https://github.com/lightbulb-sun/contrahardcorps-fang)
 * [Cool Spot (Genesis) Running Patch](https://github.com/lightbulb-sun/coolspot-run)
+* [Gunstar Heroes (Genesis) HUD Flickering Fix](https://github.com/lightbulb-sun/gunstar-flicker)
 * [Mega Bomberman (Genesis) Revival Patch](https://github.com/lightbulb-sun/megabomberman-revival)
 * [Mickey Mania (Genesis) Hack](https://github.com/lightbulb-sun/mickeymania-hack)
 * [Pitfall (Genesis) Softlock Fix](https://github.com/lightbulb-sun/pitfall-softlock)
