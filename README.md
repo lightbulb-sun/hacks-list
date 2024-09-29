@@ -119,6 +119,7 @@
 * [Street Fighter II Turbo (SNES) Special Ending Patch](https://github.com/lightbulb-sun/streetfighter2turbo-special-ending)
 * [Sunset Riders (SNES) Ending Patch](https://github.com/lightbulb-sun/sunsetriders-ending)
 * [Super Street Fighter II (SNES) Special Ending Patch](https://github.com/lightbulb-sun/superstreetfighter2-special-ending)
+* [TwinBee (SNES) Controls Hack](https://github.com/lightbulb-sun/twinbee-controls)
 * [Zombies Ate My Neighbors (SNES) Tentacle Color Patch](https://github.com/lightbulb-sun/zombies-tentacle)
 
 ## Virtual Boy
