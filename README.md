@@ -56,6 +56,7 @@
 * [Pitfall (Genesis) Softlock Fix](https://github.com/lightbulb-sun/pitfall-softlock)
 * [Rocket Knight Adventures (Genesis) Konami Unlock Patch](https://github.com/lightbulb-sun/rocketknight-konami)
 * [Shadowrun (Genesis) Hand Razor Patch](https://github.com/lightbulb-sun/shadowrun-razor)
+* [Sonic the Hedgehog (Genesis) Oxygen Gauge](https://github.com/lightbulb-sun/sonic-oxygen)
 * [Street Fighter II': Special Champion Edition (Genesis) Special Ending Patch](https://github.com/lightbulb-sun/sf2sce-special-ending)
 * [Streets of Rage 3 (Genesis) Disco Patch](https://github.com/lightbulb-sun/sor3-disco)
 * [Super Street Fighter II (Genesis) Special Ending Patch](https://github.com/lightbulb-sun/ssf2-special-ending)
