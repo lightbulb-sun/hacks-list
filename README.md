@@ -94,6 +94,7 @@
 * [Earthworm Jim 2 (Saturn) ISO 9000 Music Hack](https://github.com/lightbulb-sun/ewj2-iso9000)
 
 ## SMS
+* [Cyborg Hunter (SMS) Weapons Menu Hack](https://github.com/lightbulb-sun/cyborg-menu)
 * [Golfamania (SMS) BGM Patch](https://github.com/lightbulb-sun/golfamania-mute)
 * [Rocky (SMS) Qualifications Patch](https://github.com/lightbulb-sun/rocky-qualify)
 
