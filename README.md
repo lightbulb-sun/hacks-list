@@ -101,6 +101,7 @@
 
 ## SNES
 * [Aero Fighters (SNES) Automatic Shooting Patch](https://github.com/lightbulb-sun/aerofighters-automatic-shooting)
+* [Final Fantasy IV (SNES) Sound Player Hack](https://github.com/lightbulb-sun/ffiv-player)
 * [Final Fight (SNES) Abigail Blood Patch](https://github.com/lightbulb-sun/finalfight-blood)
 * [Final Fight (SNES) OMG Patch](https://github.com/lightbulb-sun/finalfight-omg)
 * [Final Fight (SNES) Unused Track Patch](https://github.com/lightbulb-sun/finalfight-unused-track)
