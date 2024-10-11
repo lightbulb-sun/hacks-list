@@ -78,6 +78,7 @@
 * [Fixes for Sugoro Quest translation](https://github.com/lightbulb-sun/sugoro-long-line-patch)
 * [Gyruss (NES) Controls Patch](https://github.com/lightbulb-sun/gyruss-controls)
 * [Pac-Man (NES) No Ghosts Hack](https://github.com/lightbulb-sun/pacman-noghosts)
+* [Panic Restaurant (NES) Run Button](https://github.com/lightbulb-sun/panicrestaurant-run)
 * [Super Mario Bros. 2 USA (NES) Life Counter Limit](https://github.com/lightbulb-sun/smb2us-lives)
 * [Tetris (NES) But Without Tetris](https://github.com/lightbulb-sun/tetris-notetris)
 * [Tetris (NES) No Long Bar Hack](https://github.com/lightbulb-sun/tetris-nolongbar)
