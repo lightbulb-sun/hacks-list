@@ -50,6 +50,7 @@
 * [Batman & Robin (Genesis) Utility Belt Hack](https://github.com/lightbulb-sun/batman-utility)
 * [Contra: Hard Corps (Genesis) Fang Fix](https://github.com/lightbulb-sun/contrahardcorps-fang)
 * [Cool Spot (Genesis) Running Patch](https://github.com/lightbulb-sun/coolspot-run)
+* [Ghostbusters (Genesis) Weapon Icon Patch](https://github.com/lightbulb-sun/ghostbusters-weapons)
 * [Golden Axe (Genesis) Idle Timer Patch](https://github.com/lightbulb-sun/goldenaxe-idle)
 * [Gunstar Heroes (Genesis) HUD Flickering Fix](https://github.com/lightbulb-sun/gunstar-flicker)
 * [Mega Bomberman (Genesis) Music Swap Hack](https://github.com/lightbulb-sun/megabomberman-music)
