@@ -72,6 +72,9 @@
 * [Wrestle War (Genesis) Region Patch](https://github.com/lightbulb-sun/wrestlewar-region)
 * [X-Men (Genesis) High Jump Patch](https://github.com/lightbulb-sun/xmen-jump)
 
+## GG
+* [Sonic 2 (Game Gear) Zone Order Patch](https://github.com/lightbulb-sun/sonic2-zones)
+
 ## NES
 * [Adventure Island 3 (NES) Boomerang Fix](https://github.com/lightbulb-sun/ai3-boomerang)
 * [Bonk's Adventure (NES) Health Patch](https://github.com/lightbulb-sun/bonks-health)
