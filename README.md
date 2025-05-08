@@ -74,6 +74,7 @@
 
 ## GG
 * [Sonic 2 (Game Gear) Zone Order Patch](https://github.com/lightbulb-sun/sonic2-zones)
+* [Sonic 2 (Game Gear) Ring Monitor Patch](https://github.com/lightbulb-sun/sonic2-ringmonitors)
 
 ## NES
 * [Adventure Island 3 (NES) Boomerang Fix](https://github.com/lightbulb-sun/ai3-boomerang)
